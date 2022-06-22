@@ -13,7 +13,7 @@
     ```golang
         import (
         ...
-        "github.com/sber-platformv/apigateway-go-sdk/core"
+        "github.com/sber-platformv/apigateway-sdk-go/core"
         ...
     	)
     ```
@@ -24,7 +24,7 @@
 
 ```golang
     import (
-        "github.com/sber-platformv/apigateway-go-sdk/core"
+        "github.com/sber-platformv/apigateway-sdk-go/core"
         "bytes"
         "fmt"
         "io/ioutil"
